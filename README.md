@@ -1,3 +1,3 @@
 # Test
 Testing
-Setup the CI Flow.
+Setup the CI Flows.
