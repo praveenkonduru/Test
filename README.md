@@ -1,5 +1,5 @@
 # Test
-![Build status](https://github.com/praveenkonduru/Test/workflows/Continuous%20Integration/badge.svg)
+![Continious Integration](https://github.com/praveenkonduru/Test/workflows/Continious%20Integration/badge.svg)
 
 Testing
 Setup the CI Flows.
