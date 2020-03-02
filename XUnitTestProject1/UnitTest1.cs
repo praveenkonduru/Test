@@ -9,13 +9,13 @@ namespace XUnitTestProject1
         public void Test1()
         {
             var x = 2 + 2;
-            Assert.Equal(4, x);
+            Assert.Equal(5, x);
         }
 
         [Fact]
         public void Test2()
         {
-            var test = true;
+            var test = false;
             Assert.True(test);
         }
     }
