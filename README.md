@@ -8,3 +8,4 @@ Setup the CI Flows.
 
 https://coveralls.io/repos/github/praveenkonduru/DRESS-UP/badge.svg?branch=master(Coverage Status)!:https://coveralls.io/github/praveenkonduru/DRESS-UP?branch=master
 
+[![Coverage Status](https://coveralls.io/repos/github/praveenkonduru/DRESS-UP/badge.svg?branch=master)](https://coveralls.io/github/praveenkonduru/DRESS-UP?branch=master)
