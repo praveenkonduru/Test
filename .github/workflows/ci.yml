@@ -26,6 +26,8 @@ jobs:
     - name: Test
       run:  dotnet test
       working-directory: ./
+    - name: Build and deploy package
+      run: dotnet publish -r win-x64 -c Release --self-contained
     
      
      
